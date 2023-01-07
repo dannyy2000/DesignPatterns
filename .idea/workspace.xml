@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a40c019-9fc6-4ced-aa43-41a0d4ba3725" name="Changes" comment="">
+    <list default="true" id="2a40c019-9fc6-4ced-aa43-41a0d4ba3725" name="Changes" comment="new push">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuackBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Receipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Total.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatLikeAGlutton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatResponsibly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/SleepBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/SleepTalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Snoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkLikeAChicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkSlowly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +76,16 @@
       <workItem from="1672793261150" duration="6018000" />
       <workItem from="1672958324713" duration="685000" />
       <workItem from="1672959897004" duration="600000" />
+      <workItem from="1673066741778" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="new push">
+      <created>1673066839161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673066839161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new push" />
+    <option name="LAST_COMMIT_MESSAGE" value="new push" />
   </component>
 </project>
