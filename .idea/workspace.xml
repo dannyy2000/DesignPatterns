@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a40c019-9fc6-4ced-aa43-41a0d4ba3725" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Total.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatLikeAGlutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/EatResponsibly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/SleepBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/SleepTalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/Snoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkFast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkLikeAChicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategyPatterns/WalkSlowly.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J3K4NZtUebtcKrt2KtLo9KsdPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategyPatterns.Main" />
+      <module name="designPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategyPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a40c019-9fc6-4ced-aa43-41a0d4ba3725" name="Changes" comment="" />
+      <created>1671301137532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671301137532</updated>
+      <workItem from="1671301141686" duration="4112000" />
+      <workItem from="1672047648682" duration="5125000" />
+      <workItem from="1672081764372" duration="2925000" />
+      <workItem from="1672088451183" duration="776000" />
+      <workItem from="1672793261150" duration="6018000" />
+      <workItem from="1672958324713" duration="685000" />
+      <workItem from="1672959897004" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
